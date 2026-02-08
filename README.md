@@ -13,19 +13,19 @@
   - Eliminación de elementos visuales innecesarios.
 
 - ⚡ **Optimización visual**
-  - Eliminación de barra inferior y elementos molestos.
+  - Mejores colores.
   - Eliminación de anuncios y barras laterales.
   - Ajuste automático del juego a pantalla completa.
 
 - 🖥️ **Aplicación de escritorio (sin navegador)**
-  - Corre HaxBall dentro de una ventana de Electron.
-  - Mejor integración con el sistema.
-  - Más control sobre el diseño y la experiencia.
+  - Mayor rendimiento.
+  - Minimo inputlag.
+  - Mayor compatibilidad con tu PC.
 
 - 🎮 **Integración con Discord (Rich Presence)**
   - Muestra actividad como:
     - "Jugando HaxBall Ultra"
-    - "En el menú principal"
+    - "En la pantalla principal."
   - Iconos personalizados en Discord.
 
 ---
